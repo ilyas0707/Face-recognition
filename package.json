@@ -4,11 +4,14 @@
   "description": "Face recongnition",
   "main": "script.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Ilyas Yangurazov <ilyas.yangurazov.iy@gmail.com>",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.17.1",
+    "express-favicon": "^2.0.1",
     "face-api.js": "^0.22.2"
   }
 }
