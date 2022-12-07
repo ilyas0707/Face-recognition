@@ -10,7 +10,7 @@
   "author": "Ilyas Yangurazov <ilyas.yangurazov.iy@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "express-favicon": "^2.0.1",
     "face-api.js": "^0.22.2"
   }
